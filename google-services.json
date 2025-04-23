@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930089548086",
+    "project_id": "aiquizapp-31644",
+    "storage_bucket": "aiquizapp-31644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930089548086:android:8e08585138eedb3b9b9b97",
+        "android_client_info": {
+          "package_name": "com.Niranjan.AIQuizApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_jyA7C9L0p6XI4SOu-hnQsF6gPd8iXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
